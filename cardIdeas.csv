@@ -1,0 +1,26 @@
+Card Name,Quantity,Flavor Text,Description,Special Status
+A Good Day's Work,10,Nice. Satisfying. You earned this.,Gain +1 career points. Draw a card from the central pile to your hand.,
+Lunch,10,You never know what you're gonna get.,"Everyone flips a coin; you flip 2 coins. For each heads, that player gains +1 career points.",
+An Unflattering Peer Review,5,"I'm surprised to hear this about you, of all people",-2 career points to another player of your choice,
+Career Limiting Move,5,Maybe you weren't thinking long-term with this one.,Steal a random card from another player's hand and play it; that player goes down 1 rank until the end of their next turn. You cannot be promoted or gain career points next turn.,
+Imposter Syndrome,5,Maybe they won't notice it's trash.,"Gain +1 career points. You count as the next rank up until the end of your next turn (but do not get any rank abilities you don't already have); if you do not meet the actual rank requirements at that time, lose -2 career points",
+Overtime,5,Just a little harder.,Gain +2 career points. Your next turn is skipped.,
+Process Improvement,5,"If you're gonna go fast, you gotta get smart","Play a card from your hand. Next turn, you may play 2 cards from your hand.",
+The Interns,5,Efficient little buggers.,You may play 2 other cards from your hand,
+All-Hands Meeting,4,"Thanks for coming, everyone; we'll make this quick.",Everyone (including the player) discards the top card of their deck,
+An Embarrassing Presentation Mishap,4,How awful! If only I'd been there to support you',All other players lose -1 career points,
+Group Project,4,"Good job, team. We earned this.",Gain however many career points the last player earned in their turn.,
+Senior Bonus,4,A small gift for the change-makers around here.,"If you're a manager or C-suite, gain +2 career points",
+A Rising Young Star,3,This person's going places.,"Entry-level employee: Gain 1 career point for each other card in your hand. Managers/C-Suite: Lose 1 career point for each other card in your hand; give an equivalent number of points to the closest entry-level employee (clockwise, if any)",
+CEO for a Day,3,"You're the one who won the raffle? It's a hard job, let me tell ya.","Until the start of your next turn, jump to the C-suite rank (you may use the C-suite abilities this turn)",
+Data Entry Error,3,"Thank you for calling HR, please hold.","Until the end of their next turn, the chosen player is counted as 1 rank lower than they really are",
+Elevator with the Boss,3,"Now, senpai, I've had this idea'","Flip a coin. If it lands heads, gain +3 career points",
+Parental Leave,3,"I can't hear you over the screaming, you know.","Until your next turn, you cannot lose or gain any career points",
+Patent Lawyer,3,Let's get this IP under wraps.,Play a card from your hand. No one else can play that card until the end of your next turn.,
+Reusing Bin,3,"See, I told you it's still good!",Play one of the last 5 cards in the discard pile,
+Vacation Email Response,3,Leave a message after the beep.,"Until your next turn, you cannot be targeted for card effects (but can be targeted to play cards by manager/C-suites)",
+Bullcrafter Speechmaker,2,"Lend me your ears, your eyes, your hearts, your toes!",Your manager/C-suite abilities can target equal-rank colleagues,C-Suite Skill
+Dress the Part,2,"Looks can't kill, but they don't hurt making a living.","When you play a card, you can instead copy the effect of one of the cards played since your last turn (effect only lasts until your next turn)",C-Suite Skill
+Multitasker,2,"Twice as fast, half as well, all the time.","On future turns, you can play 2 cards per turn",C-Suite Skill
+Number-Fudger,2,A little rounding shouldn't hurt anyone.,"At the end of the game, gain 10 career points. These points do not count towards promotions",C-Suite Skill
+Straight Shooter,2,This one's got upper-management written all over him.,Gain +1 career points at the start of each turn.,C-Suite Skill
